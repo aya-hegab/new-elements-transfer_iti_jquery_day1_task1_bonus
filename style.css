@@ -1,0 +1,25 @@
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} */
+div {
+  background-color: gray;
+  color: white;
+  width: 400px;
+  height: 400px;
+  /* position: relative; */
+  margin-top: 10px;
+  /* border-radius: 50%; */
+  display: inline-block;
+  margin-left: 15px;
+}
+input[type="button"] {
+  margin-top: 10px;
+}
+li {
+  cursor: pointer;
+}
+/* section {
+  display: flex;
+} */
